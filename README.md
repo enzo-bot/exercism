@@ -21,5 +21,3 @@ Each folder corresponds to a different programming language track, containing ex
 👉 [https://exercism.org/profiles/stardom](https://exercism.org/profiles/stardom)
 
 There, you can track my progress, explore my completed exercises, and see how I’ve approached different programming challenges.
-
----
